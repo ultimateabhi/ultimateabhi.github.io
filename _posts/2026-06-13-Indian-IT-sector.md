@@ -4,7 +4,7 @@ India is the only nation in the world which is not based on similarity of langua
 
 We are the oldest continuing civilization on earth. But what is this ancient thing that we are trying so hard to preserve ?
 
-Indian saints and hippies around the world talk about 
+Indian saints and hippies/liberals around the world, in an attempt to sound cool, talk about being one with the universe. Indian literature talks about the definition of "you". But it's all very confusedly presented 
 
 Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
 
